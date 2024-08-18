@@ -12,3 +12,4 @@ C:\Users\thaya\OneDrive\Documentos\CodeRDIversity\Exercicios\Exercicio5\Ex05\obj
 C:\Users\thaya\OneDrive\Documentos\CodeRDIversity\Exercicios\Exercicio5\Ex05\obj\Debug\net8.0\Ex05.pdb
 C:\Users\thaya\OneDrive\Documentos\CodeRDIversity\Exercicios\Exercicio5\Ex05\obj\Debug\net8.0\Ex05.genruntimeconfig.cache
 C:\Users\thaya\OneDrive\Documentos\CodeRDIversity\Exercicios\Exercicio5\Ex05\obj\Debug\net8.0\ref\Ex05.dll
+C:\Users\thaya\OneDrive\Documentos\CodeRDIversity\Exercicios\Exercicio5\Ex05\obj\Debug\net8.0\Ex05.sourcelink.json

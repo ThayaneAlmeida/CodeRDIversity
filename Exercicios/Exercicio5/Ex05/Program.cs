@@ -32,7 +32,7 @@ public class Aula05Ex
             }
         };
 
-            // Chamar a função para imprimir os produtos
+            
             ImprimirProdutos(geladeira);
         }
         catch (Exception ex)
@@ -42,7 +42,7 @@ public class Aula05Ex
         }
     }
 
-    // Função para imprimir os produtos
+   
     static void ImprimirProdutos(Dictionary<int, Dictionary<int, List<string>>> geladeira)
     {
         try
